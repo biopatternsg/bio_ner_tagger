@@ -1,5 +1,5 @@
 # bio_ner_tagger
-This is an NLP experiment about a) the POS, TAG, and NER tagging of sentences related with biological molecular species and their interactions, using the spaCy library, b) the fine-tuning of a spacy's pipeline with the tagged sentences, c) the identification of biological molecular species and their interactions in a corpus, and d) the construction of a knowledge base of regulatory events from them. The fine-tuning process that we make includes basic POS, TAG and NER tagging. Our code is about the fine-tuning of the tagger and the NER pipeline's components.
+This is an NLP experiment about a) the POS, TAG, and NER tagging of sentences related with biological molecular species and their interactions, b) the fine-tuning of a spacy's pipeline with the tagged sentences, c) the identification of biological molecular species and their interactions in a corpus, and d) the construction of a knowledge base of regulatory events from them. The fine-tuning process that we make includes basic POS, TAG and NER tagging. Our code is about the fine-tuning of the tagger and the NER pipeline's components.
 
 Below an example of the kind of knowledge base that we get:
 
