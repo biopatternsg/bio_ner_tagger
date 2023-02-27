@@ -47,7 +47,7 @@ Be sure of having Python 3.9 in your system. We recommend using a virtual enviro
 
 For instance:
 
-$ git clone https://github.com/jose-lopez/bio_ner_tagger.git
+$ git clone https://github.com/biopatternsg/bio_ner_tagger.git
 
 $ export PYTHONPATH=$PYTHONPATH:$HOME/bio_ner_tagger/src
 
